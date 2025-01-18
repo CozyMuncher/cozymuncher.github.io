@@ -1,0 +1,53 @@
+html {
+    background-color: rgb(241,237,238);
+}
+
+
+.leftaccent {
+    padding: 20px;
+    height: auto;
+    width: 30%;
+    border-radius: 25px;
+    background-color: rgb(219,213,227);
+    display: inline-block;
+}
+
+.rightaccent {
+    padding: 20px;
+    height: auto;
+    width: 57%;
+    border-radius: 25px;
+    background-color: rgb(219,213,227);
+    float: right;
+}
+
+.infobox {
+    padding: 20px;
+    height: auto;
+    width: 85%;
+    border-radius: 25px;
+    background-color: rgb(218,186,201);
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+.rounded_img {
+    border-radius: 50%
+}
+
+h2 {
+    font-family: Consolas, monaco, monospace;
+    color: rgb(41,66,97);
+}
+
+
+p {
+    font-family: Consolas, monaco, monospace;
+    color: rgb(41,66,97);
+}
+
